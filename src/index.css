@@ -1,10 +1,12 @@
-body {
-  display: flex;
-  margin: 0 auto;
-  max-width: 479px;
+html, body {
+  height: 100%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  display: flex;
+  margin: 0 auto; 
+  justify-content: center;
+  max-width: 479px;
+  height: auto;
+  margin-top: 40%;
 }

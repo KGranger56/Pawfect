@@ -1,0 +1,20 @@
+.Start {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.Start > .pawfectLogo {
+  display: flex;
+  margin: 0 auto;
+  background-color: #999999;
+  border-radius: 50%;
+  height: 8rem;
+  width: 8rem;
+}
+
+h1 {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
